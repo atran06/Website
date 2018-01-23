@@ -1,0 +1,15 @@
+body {
+	margin: 0;
+}
+@font-face {
+	font-family: artistsans;
+	src: url(night.otf);
+}
+.bg {
+	margin: 0;
+}
+h1 {
+	margin: 0;
+	background-color: #999;
+	padding: 5px 5px 5px 5px; 
+}
